@@ -1,2 +1,3 @@
 language: go
 gobuild_args: -ldflags -H=windowsgui
+
